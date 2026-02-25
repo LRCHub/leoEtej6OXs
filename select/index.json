@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今夜、すべてのyoutubeliveで",
+  "base_artist": "ひがしやしき",
+  "createdAt": "2026-02-25T12:25:52.683736Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今夜、すべてのyoutubeliveで",
+      "artist": "ひがしやしき",
+      "has_synced": false,
+      "path": "select/pl_01_今夜、すべてのyoutubeliveで_ひがしやしき.txt"
+    }
+  ]
+}
